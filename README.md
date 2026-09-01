@@ -65,7 +65,7 @@ laboratorio-ataque-em-cadeia-medusa/
 
 Evidência da verificação de comunicação com o ambiente de teste.
 
-![Teste de conectividade](<evidências/Teste de conectividade.png>)
+![Teste de conectividade](evidencias/teste-conectividade.png)
 
 ---
 
@@ -73,7 +73,7 @@ Evidência da verificação de comunicação com o ambiente de teste.
 
 Evidência da etapa de reconhecimento do serviço SMB.
 
-![Reconhecimento com SMB](<evidências/Reconhecimento com smb.png>)
+![Reconhecimento com SMB](evidencias/reconhecimento-smb.png)
 
 ---
 
@@ -81,7 +81,7 @@ Evidência da etapa de reconhecimento do serviço SMB.
 
 Evidência das listas de usuários e senhas utilizadas durante o laboratório.
 
-![Lista de usuários e senhas](<evidências/Lista de Usuarios e sENHAS.png>)
+![Lista de usuários e senhas](evidencias/lista-usuarios-senhas.png)
 
 ---
 
@@ -89,7 +89,7 @@ Evidência das listas de usuários e senhas utilizadas durante o laboratório.
 
 Evidência da execução da ferramenta Medusa durante o teste.
 
-![Execução do Medusa](<evidências/Execução do Medusa.png>)
+![Execução do Medusa](evidencias/execucao-medusa.png)
 
 ---
 
@@ -97,9 +97,7 @@ Evidência da execução da ferramenta Medusa durante o teste.
 
 Evidência do acesso ao serviço utilizando SMBClient após a identificação de credenciais válidas.
 
-![Acesso com SMBClient](<evidências/Acesso com Smbclient.png>)
-
----
+![Acesso com SMBClient](evidencias/acesso-smbclient.png)
 
 ## Listas de Palavras Utilizadas
 
