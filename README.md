@@ -132,7 +132,7 @@ O vídeo apresenta a simulação do laboratório de ataque em cadeia, mostrando 
 
 O relatório completo do laboratório está disponível no arquivo abaixo:
 
-[Ver relatório técnico](<Relatório Técnico-Ataque em Cadeia Enumeração SMB e Password Spraying.pdf>)
+[Ver relatório técnico](<RelatórioTécnico-Ataque em Cadeia Enumeração SMB e Password Spraying.pdf>)
 
 O relatório contém mais detalhes sobre o ambiente, metodologia, execução, evidências, resultado e conclusão do laboratório.
 
